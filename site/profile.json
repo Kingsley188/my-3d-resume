@@ -1,0 +1,540 @@
+{
+  "lang": "zh",
+  "name": "Jeff",
+  "role": "AI 落地顾问",
+  "meta": {
+    "title": "About Jeff",
+    "description": "我是 Jeff（张裕杰）——带老板把 AI 落地的人。从德勤咨询、腾讯投后，到上市公司总裁助理，深耕企业数字化与科技转型十年；现在和团队自研 AI 智能体，也在社区里陪 AI 创业者把想法做成产品。"
+  },
+  "intro": {
+    "hello": "About Jeff",
+    "lines": [
+      "我是 Jeff（张裕杰）——带老板把 AI 落地的人。从德勤咨询、腾讯投后，到上市公司总裁助理，深耕企业数字化与科技转型十年；现在和团队自研 AI 智能体，也在社区里陪 AI 创业者把想法做成产品。"
+    ]
+  },
+  "corner": {
+    "topLeft": [
+      "Jeff",
+      "AI Transformation Practitioner"
+    ],
+    "topRight": "ENFP · 2026",
+    "bottomLeft": "Strategy · AI · Community",
+    "side": "Based in Shenzhen"
+  },
+  "nodes": [
+    {
+      "years": "2016 – 2019",
+      "org": "德勤管理咨询",
+      "role": "高级顾问",
+      "tags": [
+        "全球四大咨询 · 战略与数字化转型",
+        "60+ 企业咨询项目",
+        "代表项目：中国移动数字化战略 / 斗鱼战略变革 / 海南自贸区封关人才政策"
+      ],
+      "desc": "",
+      "popup": {
+        "title": "德勤管理咨询（2016–2019）",
+        "keywords": [
+          "全球四大",
+          "战略咨询",
+          "数字化转型",
+          "60+项目",
+          "中国移动",
+          "斗鱼",
+          "海南自贸区"
+        ]
+      }
+    },
+    {
+      "years": "2019 – 2021",
+      "org": "腾讯集团",
+      "role": "投后管理高级经理",
+      "tags": [
+        "管理 100+ 家腾讯被投企业",
+        "参与 QQ音乐上市、阅文并轨、斗鱼并购等资本项目",
+        "2021 年参与内容审查 AI 项目，早于 ChatGPT 的企业级 AI 实践"
+      ],
+      "desc": "",
+      "popup": {
+        "title": "腾讯集团（2019–2021）",
+        "keywords": [
+          "投后管理",
+          "100+被投企业",
+          "QQ音乐上市",
+          "阅文",
+          "斗鱼并购",
+          "2021企业级AI"
+        ]
+      }
+    },
+    {
+      "years": "2021 – 2023",
+      "org": "得润电子集团",
+      "role": "总裁助理 · PMO 办公室",
+      "tags": [
+        "深圳第一批制造业上市公司 · 科技制造 · 高速连接器",
+        "战略视角推动企业数字化转型变革",
+        "参与二代接班改革、业务孵化 / 并购 / 关停"
+      ],
+      "desc": "",
+      "popup": {
+        "title": "得润电子集团（2021–2023）",
+        "keywords": [
+          "上市公司",
+          "科技制造",
+          "高速连接器",
+          "战略视角",
+          "企业数字化转型",
+          "二代接班改革"
+        ]
+      }
+    },
+    {
+      "years": "2024 – 至今",
+      "org": "周周黑客松 AI 社区",
+      "role": "联合发起人 · 商务负责人",
+      "tags": [
+        "1W+ 社区成员，覆盖深圳 / 北京 / 上海 / 广州 / 杭州 / 清迈 6 城",
+        "50+ 场 AI 项目路演 / 比赛，300+ 场 AI 沙龙活动",
+        "联合清华、深圳科创学院、腾讯云、字节等共办活动"
+      ],
+      "desc": "",
+      "popup": {
+        "title": "AI创业团队 · 周周黑客松",
+        "keywords": [
+          "深圳最大AI社区团队",
+          "全国最早AI企业落地",
+          "300+AI活动赛事",
+          "AI博士后团队",
+          "深圳南山",
+          "1W+成员",
+          "6城",
+          "Demo Day"
+        ]
+      }
+    },
+    {
+      "years": "至今",
+      "org": "智回科技",
+      "role": "联合创始人",
+      "tags": [
+        "自研 AI 智能体工作台 BigApple",
+        "200+ 场 AI 实操工作坊，3000+ 位一线业务学员",
+        "服务客户：腾讯 / 阿里国际 / 建设银行 / TCL / 深圳报业集团 / 光明区政府…"
+      ],
+      "desc": "同时担任\n深圳大学 · 商业实战导师\n深圳企业人力资源发展促进会 · 首席 AI 专家\nBNI 深圳威跃分会（全球首个 90 后分会）· 创会会员 · 会员辅导统筹",
+      "popup": {
+        "title": "企业AI落地赋能 · 智回科技",
+        "keywords": [
+          "AI实操培训",
+          "AI工具开发",
+          "AI宣传片",
+          "AI办公智能体",
+          "BigApple",
+          "200+场工作坊",
+          "3000+学员"
+        ]
+      }
+    }
+  ],
+  "forehead": {
+    "label": "BNI 威跃分会",
+    "popup": {
+      "title": "BNI",
+      "keywords": [
+        "威跃分会",
+        "全球首个90后分会",
+        "科技赋能 共赴蓝海",
+        "跃来跃开心",
+        "2026年6月",
+        "创会会员",
+        "会员辅导统筹",
+        "教育统筹"
+      ]
+    }
+  },
+  "extraStickers": {},
+  "works": [
+    {
+      "id": "workshop",
+      "title": "企业 AI 落地",
+      "tagline": "200+ 场工作坊 · 3000+ 学员",
+      "items": [
+        {
+          "name": "AI 实操培训",
+          "meta": "腾讯 / 阿里国际 / 建设银行 / TCL / 深圳报业 / 光明区政府",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "AI 工具开发",
+          "meta": "为企业定制 AI 工作流与智能体",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "AI 宣传片",
+          "meta": "品牌形象与产品推广",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "AI 办公智能体",
+          "meta": "提升企业内部办公效率",
+          "image": "",
+          "link": ""
+        }
+      ],
+      "footer": "服务客户：腾讯 · 阿里国际 · 建设银行 · TCL · 深圳报业集团 · 光明区政府 · DCC产业园 · 跨境电商协会"
+    },
+    {
+      "id": "community",
+      "title": "周周黑客松",
+      "tagline": "1W+ 成员 · 6 城 · 300+ 场活动",
+      "items": [
+        {
+          "name": "Demo Day",
+          "meta": "50+ AI 项目路演与比赛",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "迷你黑客松",
+          "meta": "花 1 周造 1 个 MVP，前 100 个用户",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "AI 酒馆",
+          "meta": "创造者交流会 · 爱·自由·创造",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "AI 共学工作坊",
+          "meta": "联合清华、深圳科创学院、腾讯云、字节",
+          "image": "",
+          "link": ""
+        }
+      ],
+      "footer": "社区项目：ShipAny 首发 4 小时破万刀 · 映壳获百万级融资"
+    },
+    {
+      "id": "product",
+      "title": "产品",
+      "tagline": "智回科技",
+      "items": [
+        {
+          "name": "BigApple",
+          "meta": "AI 智能体工作台 · 自研产品",
+          "image": "",
+          "link": ""
+        }
+      ],
+      "footer": ""
+    },
+    {
+      "id": "transform",
+      "title": "战略与转型",
+      "tagline": "十年企业数字化",
+      "items": [
+        {
+          "name": "中国移动数字化战略",
+          "meta": "德勤 · 2016–2019",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "斗鱼战略变革",
+          "meta": "德勤",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "QQ 音乐上市",
+          "meta": "腾讯 · 2019–2021",
+          "image": "",
+          "link": ""
+        },
+        {
+          "name": "得润二代接班改革",
+          "meta": "得润电子 · 2021–2023",
+          "image": "",
+          "link": ""
+        }
+      ],
+      "footer": ""
+    }
+  ],
+  "links": [],
+  "en": {
+    "lang": "en",
+    "name": "Jeff",
+    "role": "AI Transformation Practitioner",
+    "meta": {
+      "title": "About Jeff",
+      "description": "I'm Jeff Zhang — the person who helps business owners actually land AI. From Deloitte consulting and Tencent post-investment to assistant to the president of a listed manufacturer, I've spent ten years on enterprise digital transformation. Now I build AI agents with my team and help AI founders turn ideas into products."
+    },
+    "intro": {
+      "hello": "About Jeff",
+      "lines": [
+        "I'm Jeff Zhang — the person who helps business owners actually land AI. From Deloitte consulting and Tencent post-investment to assistant to the president of a listed manufacturer, I've spent ten years on enterprise digital transformation. Now I build AI agents with my team and help AI founders turn ideas into products."
+      ]
+    },
+    "corner": {
+      "topLeft": [
+        "Jeff",
+        "AI Transformation Practitioner"
+      ],
+      "topRight": "ENFP · 2026",
+      "bottomLeft": "Strategy · AI · Community",
+      "side": "Based in Shenzhen"
+    },
+    "nodes": [
+      {
+        "years": "2016 – 2019",
+        "org": "Deloitte Consulting",
+        "role": "Senior Consultant",
+        "tags": [
+          "Big Four consulting · strategy & digital transformation",
+          "60+ enterprise consulting projects",
+          "Selected: China Mobile digital strategy / Douyu strategic change / Hainan FTP talent policy"
+        ],
+        "desc": "",
+        "popup": {
+          "title": "德勤管理咨询（2016–2019）",
+          "keywords": [
+            "全球四大",
+            "战略咨询",
+            "数字化转型",
+            "60+项目",
+            "中国移动",
+            "斗鱼",
+            "海南自贸区"
+          ]
+        }
+      },
+      {
+        "years": "2019 – 2021",
+        "org": "Tencent",
+        "role": "Senior Manager, Post-investment Management",
+        "tags": [
+          "Managed 100+ Tencent portfolio companies",
+          "Capital projects incl. QQ Music IPO, China Literature integration, Douyu M&A",
+          "2021: enterprise content-moderation AI, before ChatGPT"
+        ],
+        "desc": "",
+        "popup": {
+          "title": "腾讯集团（2019–2021）",
+          "keywords": [
+            "投后管理",
+            "100+被投企业",
+            "QQ音乐上市",
+            "阅文",
+            "斗鱼并购",
+            "2021企业级AI"
+          ]
+        }
+      },
+      {
+        "years": "2021 – 2023",
+        "org": "Deren Electronics Group",
+        "role": "Assistant to the President · PMO",
+        "tags": [
+          "Listed company · tech manufacturing · high-speed connectors",
+          "Drove digital transformation from a strategic seat",
+          "Succession reform, business incubation / M&A / divestment"
+        ],
+        "desc": "",
+        "popup": {
+          "title": "得润电子集团（2021–2023）",
+          "keywords": [
+            "上市公司",
+            "科技制造",
+            "高速连接器",
+            "战略视角",
+            "企业数字化转型",
+            "二代接班改革"
+          ]
+        }
+      },
+      {
+        "years": "2024 – Now",
+        "org": "Hackathon Weekly AI Community",
+        "role": "Co-initiator · Head of Business",
+        "tags": [
+          "10K+ members across 6 cities: Shenzhen / Beijing / Shanghai / Guangzhou / Hangzhou / Chiang Mai",
+          "50+ AI project pitches & competitions, 300+ AI salons",
+          "Events with Tsinghua, Shenzhen Institute for Innovation, Tencent Cloud, ByteDance…"
+        ],
+        "desc": "",
+        "popup": {
+          "title": "AI创业团队 · 周周黑客松",
+          "keywords": [
+            "深圳最大AI社区团队",
+            "全国最早AI企业落地",
+            "300+AI活动赛事",
+            "AI博士后团队",
+            "深圳南山",
+            "1W+成员",
+            "6城",
+            "Demo Day"
+          ]
+        }
+      },
+      {
+        "years": "Now",
+        "org": "Zhihui Technology",
+        "role": "Co-founder",
+        "tags": [
+          "In-house AI agent workbench BigApple",
+          "200+ hands-on AI workshops · 3,000+ frontline learners",
+          "Clients: Tencent / Alibaba International / CCB / TCL / Shenzhen Press Group / Guangming District Gov…"
+        ],
+        "desc": "Also\nShenzhen University · Business Practice Mentor\nShenzhen Enterprise HR Development Association · Chief AI Expert\nBNI Shenzhen Cheer Chapter (first post-90s chapter worldwide) · Founding Member · Member Mentoring Coordinator",
+        "popup": {
+          "title": "企业AI落地赋能 · 智回科技",
+          "keywords": [
+            "AI实操培训",
+            "AI工具开发",
+            "AI宣传片",
+            "AI办公智能体",
+            "BigApple",
+            "200+场工作坊",
+            "3000+学员"
+          ]
+        }
+      }
+    ],
+    "forehead": {
+      "label": "BNI 威跃分会",
+      "popup": {
+        "title": "BNI",
+        "keywords": [
+          "威跃分会",
+          "全球首个90后分会",
+          "科技赋能 共赴蓝海",
+          "跃来跃开心",
+          "2026年6月",
+          "创会会员",
+          "会员辅导统筹",
+          "教育统筹"
+        ]
+      }
+    },
+    "extraStickers": {},
+    "works": [
+      {
+        "id": "workshop",
+        "title": "Enterprise AI",
+        "tagline": "200+ workshops · 3000+ participants",
+        "items": [
+          {
+            "name": "AI training",
+            "meta": "Tencent / Alibaba / CCB / TCL / Shenzhen Media / Guangming Gov.",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "AI tool development",
+            "meta": "Custom AI workflows and agents",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "AI promotional videos",
+            "meta": "Brand & product marketing",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "AI office agents",
+            "meta": "Boost internal productivity",
+            "image": "",
+            "link": ""
+          }
+        ],
+        "footer": "Clients: Tencent · Alibaba · CCB · TCL · Shenzhen Media · Guangming Gov. · DCC · CBEA"
+      },
+      {
+        "id": "community",
+        "title": "Hackathon Weekly",
+        "tagline": "10K+ members · 6 cities · 300+ events",
+        "items": [
+          {
+            "name": "Demo Day",
+            "meta": "50+ AI project showcases & competitions",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "Mini Hackathon",
+            "meta": "Build an MVP in 1 week, get 100 users",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "AI Tavern",
+            "meta": "Creator meetup · Freedom · Creativity",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "AI workshop",
+            "meta": "Co-host with Tsinghua, Tencent Cloud, ByteDance",
+            "image": "",
+            "link": ""
+          }
+        ],
+        "footer": "Community projects: ShipAny hit $10K in 4 hrs · Yingke raised VC funding"
+      },
+      {
+        "id": "product",
+        "title": "Product",
+        "tagline": "Zhihui Tech",
+        "items": [
+          {
+            "name": "BigApple",
+            "meta": "AI agent workbench · in-house product",
+            "image": "",
+            "link": ""
+          }
+        ],
+        "footer": ""
+      },
+      {
+        "id": "transform",
+        "title": "Strategy & Transformation",
+        "tagline": "10 years in enterprise digitalization",
+        "items": [
+          {
+            "name": "China Mobile digital strategy",
+            "meta": "Deloitte · 2016–2019",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "DouYu strategic transformation",
+            "meta": "Deloitte",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "QQ Music IPO",
+            "meta": "Tencent · 2019–2021",
+            "image": "",
+            "link": ""
+          },
+          {
+            "name": "Deren 2nd gen succession reform",
+            "meta": "Deren Electronics · 2021–2023",
+            "image": "",
+            "link": ""
+          }
+        ],
+        "footer": ""
+      }
+    ],
+    "links": []
+  }
+}
